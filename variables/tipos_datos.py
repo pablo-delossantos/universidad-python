@@ -1,5 +1,7 @@
 # Ejemplo de tipos de datos en Python
 
+# identificador = valor
+
 # Entero
 edad = 30
 print("Edad:", edad)
