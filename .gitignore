@@ -228,3 +228,9 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Ignorar todos los archivos de VSCode...
+.vscode/*
+
+# ...excepto settings.json
+!.vscode/settings.json
