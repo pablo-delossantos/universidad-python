@@ -1,5 +1,5 @@
 
-# Universidad Python – De Cero a Experto 🐍
+# Universidad Python 🐍
 
 Este repositorio contiene los apuntes, ejercicios y proyectos desarrollados a lo largo del curso [Universidad Python – Desde Cero hasta Experto](https://www.udemy.com/course/universidad-python-desde-cero-hasta-experto-django-flask-rest-web/) de Udemy, dictado por Jorge Villegas.
 
